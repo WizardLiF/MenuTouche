@@ -1,0 +1,14 @@
+Voici un petit tuto pour pouvoir l'insatller sur votre serveur et le modifier (Vous n'avez en aucun cas le droit de présenter ce menu en disant que ses vous qu'il à fait)
+
+-> Première étape 
+- Pour faire fonctionner le menu, il faut aussi que vous installer NativeUI sur votre serveur. NativeUI permet de faire fonctionner le menu sans bug.
+- Après avoir installer NativeUi, allez le start dans votre server.cfg
+
+-> Deuxième étape 
+- Installer le menu sur votre serveur.
+- Allez le start dans le server.cfg
+- Modifier les informations de votre choix
+
+Merci d'avoir insatller le menu
+
+Mon discord -> https://discord.gg/kCztv4fFck
